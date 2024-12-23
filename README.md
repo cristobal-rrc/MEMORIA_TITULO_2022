@@ -5,10 +5,12 @@ Preambulo: Guia para aplicar set de principios Lean en mantenimiento preventivo 
 
 Preamble: Guide to applying a set of Lean principles in preventive plant maintenance, focused on pyrolysis.
 
-Profesor Guía: PhD. Orlando Durán Acevedo
+Profesor Guía: PhD. Orlando Durán Acevedo.
 
-Profesor Co-Guía Msc. Hugo Valenzuela Rosenzuaig
+Profesor Co-Guía Msc. Hugo Valenzuela Rosenzuaig.
 
-Año:2022
+Año:2022.
 
-Primera publicación como Bsc. Engineering
+Primera publicación como Licenciado en ciencias de la ingeniería.
+
+First publication as a Bsc. Engineering.
